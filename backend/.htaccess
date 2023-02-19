@@ -1,0 +1,17 @@
+RewriteEngine On
+RewriteRule ^home$ index.php
+RewriteRule ^information$ index.php?controller=information
+RewriteRule ^categories$ index.php?controller=categories
+RewriteRule ^districts$ index.php?controller=districts
+RewriteRule ^users$ index.php?controller=users
+RewriteRule ^nsx$ index.php?controller=nsx
+RewriteRule ^ncc$ index.php?controller=ncc
+RewriteRule ^nbl$ index.php?controller=nbl
+RewriteRule ^transport$ index.php?controller=transport
+RewriteRule ^supplies$ index.php?controller=supplies
+RewriteRule ^contact$ index.php?controller=contact
+
+
+
+
+
